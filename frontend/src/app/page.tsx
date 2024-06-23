@@ -10,7 +10,7 @@ const Home: React.FC = () => {
 
       {/* Main Content */}
       <main className="flex-1 flex flex-col items-center justify-center p-24 bg-opacity-75 bg-black">
-        <h1 className="text-4xl font-bold">Welcome to Coach Curriculum!</h1>
+        <h1 className="text-4xl font-bold">Welcome to Curriculum Coach!</h1>
         <div className="mt-4 text-lg text-center">
           <p>Just one step away from your individualized education plans</p>
           <Link href="/form">
