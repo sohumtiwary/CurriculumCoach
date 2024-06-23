@@ -15,7 +15,7 @@ const Home: React.FC = () => {
           <p>Just one step away from your individualized education plans</p>
           <Link href="/form">
           <div
-              style={{ backgroundColor: '#bc4749', color: 'white' }}
+              style={{ backgroundColor: '#3a6ea5', color: 'white' }}
               className="font-bold py-2 px-4 rounded mt-4 cursor-pointer custom-hover"
             >
               Click me!
