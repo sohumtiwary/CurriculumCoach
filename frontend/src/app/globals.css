@@ -31,3 +31,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.custom-hover:hover {
+  background-color: #1d4ed8;
+}
